@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Ini Tahap Staging
+          Ini Tahap Production
         </p>
         <a
           className="App-link"
